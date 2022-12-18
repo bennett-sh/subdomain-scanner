@@ -1,0 +1,3 @@
+windows-curses
+colorama
+requests
